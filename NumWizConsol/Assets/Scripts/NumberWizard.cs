@@ -5,8 +5,13 @@ using UnityEngine;
 public class NumberWizard : MonoBehaviour {
 
 	// Use this for initialization
-	void Start () {
+	private void Start () {
 		Debug.Log("Hello  Welcome to number Wizard!");
+		
+		Debug.Log("we would like you to pick a number, but don't tell me what it is \n\n " +
+		          "Highest number is 1000 \n\n " +
+		          "Lowest Number is 1 \n\n" +
+		          "頑張って \n");
 	}
 	
 	// Update is called once per frame
