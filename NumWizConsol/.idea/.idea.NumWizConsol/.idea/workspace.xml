@@ -2,13 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="52316dc2-dc7c-4845-8c5f-97a73d49a80e" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.NumWizConsol/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.NumWizConsol/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Scripts/NumberWizard.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/NumberWizard.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/ProtocolInstance.json" beforeDir="false" afterPath="$PROJECT_DIR$/Library/ProtocolInstance.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/ScriptAssemblies/Assembly-CSharp.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Library/ScriptAssemblies/Assembly-CSharp.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/ScriptAssemblies/Assembly-CSharp.dll.mdb" beforeDir="false" afterPath="$PROJECT_DIR$/Library/ScriptAssemblies/Assembly-CSharp.dll.mdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/assetDatabase3" beforeDir="false" afterPath="$PROJECT_DIR$/Library/assetDatabase3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/metadata/08/08da2ff92a0df44e7bddc550e52be185" beforeDir="false" afterPath="$PROJECT_DIR$/Library/metadata/08/08da2ff92a0df44e7bddc550e52be185" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -51,16 +45,16 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Assets/Scripts/NumberWizard.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="690">
-              <caret line="48" column="12" selection-start-line="48" selection-start-column="12" selection-end-line="48" selection-end-column="12" />
+            <state relative-caret-position="660">
+              <caret line="46" column="35" selection-start-line="46" selection-start-column="35" selection-end-line="46" selection-end-column="35" />
               <folding>
-                <marker date="1548713567239" expanded="false" signature="6:78" ph="..." />
-                <marker date="1548713567239" expanded="true" signature="122:1114" ph="{...}" />
-                <marker date="1548713567239" expanded="true" signature="232:697" ph="{...}" />
-                <marker date="1548713567239" expanded="true" signature="752:1112" ph="{...}" />
-                <marker date="1548713567239" expanded="true" signature="795:888" ph="{...}" />
-                <marker date="1548713567239" expanded="true" signature="936:1024" ph="{...}" />
-                <marker date="1548713567239" expanded="true" signature="1069:1109" ph="{...}" />
+                <marker date="1548713913581" expanded="false" signature="6:78" ph="..." />
+                <marker date="1548713913581" expanded="true" signature="122:1106" ph="{...}" />
+                <marker date="1548713913581" expanded="true" signature="232:697" ph="{...}" />
+                <marker date="1548713913581" expanded="true" signature="752:1104" ph="{...}" />
+                <marker date="1548713913581" expanded="true" signature="795:888" ph="{...}" />
+                <marker date="1548713913581" expanded="true" signature="936:1024" ph="{...}" />
+                <marker date="1548713913581" expanded="true" signature="1069:1101" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -166,12 +160,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1548710081086</updated>
-      <workItem from="1548710082382" duration="2897000" />
+      <workItem from="1548710082382" duration="3185000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2897000" />
+    <option name="totallyTimeSpent" value="3185000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -232,16 +226,16 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/Assets/Scripts/NumberWizard.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="690">
-          <caret line="48" column="12" selection-start-line="48" selection-start-column="12" selection-end-line="48" selection-end-column="12" />
+        <state relative-caret-position="660">
+          <caret line="46" column="35" selection-start-line="46" selection-start-column="35" selection-end-line="46" selection-end-column="35" />
           <folding>
-            <marker date="1548713567239" expanded="false" signature="6:78" ph="..." />
-            <marker date="1548713567239" expanded="true" signature="122:1114" ph="{...}" />
-            <marker date="1548713567239" expanded="true" signature="232:697" ph="{...}" />
-            <marker date="1548713567239" expanded="true" signature="752:1112" ph="{...}" />
-            <marker date="1548713567239" expanded="true" signature="795:888" ph="{...}" />
-            <marker date="1548713567239" expanded="true" signature="936:1024" ph="{...}" />
-            <marker date="1548713567239" expanded="true" signature="1069:1109" ph="{...}" />
+            <marker date="1548713913581" expanded="false" signature="6:78" ph="..." />
+            <marker date="1548713913581" expanded="true" signature="122:1106" ph="{...}" />
+            <marker date="1548713913581" expanded="true" signature="232:697" ph="{...}" />
+            <marker date="1548713913581" expanded="true" signature="752:1104" ph="{...}" />
+            <marker date="1548713913581" expanded="true" signature="795:888" ph="{...}" />
+            <marker date="1548713913581" expanded="true" signature="936:1024" ph="{...}" />
+            <marker date="1548713913581" expanded="true" signature="1069:1101" ph="{...}" />
           </folding>
         </state>
       </provider>
