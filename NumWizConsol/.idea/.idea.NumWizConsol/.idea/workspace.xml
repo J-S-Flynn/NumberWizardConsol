@@ -7,6 +7,7 @@
       <change beforePath="$PROJECT_DIR$/Library/ProtocolInstance.json" beforeDir="false" afterPath="$PROJECT_DIR$/Library/ProtocolInstance.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Library/ScriptAssemblies/Assembly-CSharp.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Library/ScriptAssemblies/Assembly-CSharp.dll" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Library/ScriptAssemblies/Assembly-CSharp.dll.mdb" beforeDir="false" afterPath="$PROJECT_DIR$/Library/ScriptAssemblies/Assembly-CSharp.dll.mdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/ScriptAssemblies/BuiltinAssemblies.stamp" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/Library/assetDatabase3" beforeDir="false" afterPath="$PROJECT_DIR$/Library/assetDatabase3" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Library/metadata/08/08da2ff92a0df44e7bddc550e52be185" beforeDir="false" afterPath="$PROJECT_DIR$/Library/metadata/08/08da2ff92a0df44e7bddc550e52be185" afterDir="false" />
     </list>
@@ -36,12 +37,12 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="cs" value="318" />
+          <entry key="cs" value="526" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="C#" value="318" />
+          <entry key="C#" value="526" />
         </counts>
       </usages-collector>
     </session>
@@ -51,13 +52,14 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Assets/Scripts/NumberWizard.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="75">
-              <caret line="7" column="25" selection-start-line="7" selection-start-column="25" selection-end-line="7" selection-end-column="25" />
+            <state relative-caret-position="420">
+              <caret line="30" column="36" selection-start-line="30" selection-start-column="36" selection-end-line="30" selection-end-column="36" />
               <folding>
-                <marker date="1548711506915" expanded="false" signature="6:78" ph="..." />
-                <marker date="1548711506915" expanded="true" signature="122:557" ph="{...}" />
-                <marker date="1548711506915" expanded="true" signature="179:493" ph="{...}" />
-                <marker date="1548711506915" expanded="true" signature="548:555" ph="{...}" />
+                <marker date="1548712332118" expanded="false" signature="6:78" ph="..." />
+                <marker date="1548712332118" expanded="true" signature="122:831" ph="{...}" />
+                <marker date="1548712332118" expanded="true" signature="180:691" ph="{...}" />
+                <marker date="1548712332118" expanded="true" signature="746:829" ph="{...}" />
+                <marker date="1548712332118" expanded="true" signature="792:826" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -123,6 +125,7 @@
     <property name="Rider.DefaultBreakpoints.AreToggled" value="true" />
     <property name="Rider.ProjectViewActivator.IsNotFirstRun" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="settings.editor.selected.configurable" value="preferences.sourceCode" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -162,12 +165,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1548710081086</updated>
-      <workItem from="1548710082382" duration="1111000" />
+      <workItem from="1548710082382" duration="1793000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1111000" />
+    <option name="totallyTimeSpent" value="1793000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -228,13 +231,14 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/Assets/Scripts/NumberWizard.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="7" column="25" selection-start-line="7" selection-start-column="25" selection-end-line="7" selection-end-column="25" />
+        <state relative-caret-position="420">
+          <caret line="30" column="36" selection-start-line="30" selection-start-column="36" selection-end-line="30" selection-end-column="36" />
           <folding>
-            <marker date="1548711506915" expanded="false" signature="6:78" ph="..." />
-            <marker date="1548711506915" expanded="true" signature="122:557" ph="{...}" />
-            <marker date="1548711506915" expanded="true" signature="179:493" ph="{...}" />
-            <marker date="1548711506915" expanded="true" signature="548:555" ph="{...}" />
+            <marker date="1548712332118" expanded="false" signature="6:78" ph="..." />
+            <marker date="1548712332118" expanded="true" signature="122:831" ph="{...}" />
+            <marker date="1548712332118" expanded="true" signature="180:691" ph="{...}" />
+            <marker date="1548712332118" expanded="true" signature="746:829" ph="{...}" />
+            <marker date="1548712332118" expanded="true" signature="792:826" ph="{...}" />
           </folding>
         </state>
       </provider>

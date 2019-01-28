@@ -8,7 +8,8 @@ public class NumberWizard : MonoBehaviour {
 	private void Start () {
 
 	    int max = 1000;
-		int min = 1; 
+		int min = 1;
+		int guess = 500; 
 		
 		Debug.Log("Hello  Welcome to number Wizard!");
 		
@@ -16,10 +17,27 @@ public class NumberWizard : MonoBehaviour {
 		          "Highest number is : " + max + " \n\n " +
 		          "Lowest Number is : " + min + "\n\n" +
 		          "頑張って \n" );
+		
+		Debug.Log("Is it higher of lower than : " + guess);
+		Debug.Log("Push up for higher \n " +
+		          "Push down for lower \n" +
+		          "push enter for correct! \n");
 	}
 	
 	// Update is called once per frame
 	void Update () {
-		
+
+		if (Input.GetKeyDown(KeyCode.UpArrow)){
+			Debug.Log("Its Higher");
+		}
+
+		if (Input.GetKeyDown(KeyCode.DownArrow)){
+			Debug.Log("Its lower");
+		}
+
+		if (Input.GetKeyDown(KeyCode.Return))
+		{
+			Debug.Log("i Got it");
+		}
 	}
 }
